@@ -1,0 +1,119 @@
+Diamond- Kangans 
+WHPS88.001 
+ 	Gross Wt	:	48.920  gm	 
+ 	Net Wt	:	45.728  gm	 
+ 	Dia Pcs	:	1,116  	 
+ 	Dia Wt	:	5.96  cts	 
+ 	Metal	:	18  K
+
+
+Diamond- Kangans 
+WHPS88.002 
+ 	Gross Wt	:	30.090  gm	 
+ 	Net Wt	:	28.812  gm	 
+ 	Dia Pcs	:	946  	 
+ 	Dia Wt	:	6.39  cts	 
+ 	Metal	:	18  K
+
+
+Diamond- Kangans 
+WHPS88.003 
+ 	Gross Wt	:	35.960  gm	 
+ 	Net Wt	:	34.928  gm	 
+ 	Dia Pcs	:	966  	 
+ 	Dia Wt	:	5.16  cts	 
+ 	Metal	:	18  K	 
+
+
+
+Diamond- Kangans 
+WHPS88.006 
+ 	Gross Wt	:	46.86  gm	 
+ 	Net Wt	:	45.37  gm	 
+ 	Dia Pcs	:	186  	 
+ 	Dia Wt	:	7.45  cts	 
+ 	Metal	:	18  K	
+
+
+
+Gross Wt	:	45.090  gm	 
+ 	Net Wt	:	43.644  gm	 
+ 	Dia Pcs	:	816  	 
+ 	Dia Wt	:	7.23  cts	 
+ 	Metal	:	18  K	
+
+
+
+Diamond- Kangans 
+WHPS88.009 
+ 	Gross Wt	:	49.050  gm	 
+ 	Net Wt	:	47.348  gm	 
+ 	Dia Pcs	:	252  	 
+ 	Dia Wt	:	8.51  cts	 
+ 	Metal	:	18  K	
+
+
+Gross Wt	:	11.520  gm	 
+ 	Net Wt	:	11.252  gm	 
+ 	Dia Pcs	:	197  	 
+ 	Dia Wt	:	1.34  cts	 
+ 	Metal	:	18  K
+
+
+Diamond- Bracelets 
+WHPS288.146 
+ 	Gross Wt	:	25.680  gm	 
+ 	Net Wt	:	25.144  gm	 
+ 	Dia Pcs	:	525  	 
+ 	Dia Wt	:	2.68  cts	 
+ 	Metal	:	18  K
+
+
+
+Diamond- Bracelets 
+WHPS288.149 
+ 	Gross Wt	:	13.990  gm	 
+ 	Net Wt	:	13.696  gm	 
+ 	Dia Pcs	:	274  	 
+ 	Dia Wt	:	1.47  cts	 
+ 	Metal	:	18  K	
+
+
+Diamond- Bracelets 
+WHPS288.151 
+ 	Gross Wt	:	23.670  gm	 
+ 	Net Wt	:	22.932  gm	 
+ 	Dia Pcs	:	230  	 
+ 	Dia Wt	:	1.410  cts	 
+ 	Metal	:	18  K
+
+
+Diamond- Bracelets 
+WHPS288.151 
+ 	Gross Wt	:	23.670  gm	 
+ 	Net Wt	:	22.932  gm	 
+ 	Dia Pcs	:	230  	 
+ 	Dia Wt	:	1.410  cts	 
+ 	Metal	:	18  K
+
+
+
+Diamond- Bracelets 
+WHPS288.171 
+ 	Gross Wt	:	11.800  gm	 
+ 	Net Wt	:	11.550  gm	 
+ 	Dia Pcs	:	126  	 
+ 	Dia Wt	:	1.250  cts	 
+ 	Metal	:	18  K	 
+
+
+
+Diamond- Bracelets 
+WHPS288.173 
+ 	Gross Wt	:	8.310  gm	 
+ 	Net Wt	:	8.166  gm	 
+ 	Dia Pcs	:	80  	 
+ 	Dia Wt	:	0.720  cts	 
+ 	Metal	:	18  K	 
+
+ 

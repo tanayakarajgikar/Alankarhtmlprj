@@ -1,0 +1,168 @@
+/* devanagari */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Biryani UltraLight'), local('Biryani-UltraLight'), url(http://fonts.gstatic.com/s/biryani/v1/y8EnHksmAyxJufumfyawdyEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Biryani UltraLight'), local('Biryani-UltraLight'), url(http://fonts.gstatic.com/s/biryani/v1/ZIbFUb13r0-yjw6zF-6PkSEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Biryani UltraLight'), local('Biryani-UltraLight'), url(http://fonts.gstatic.com/s/biryani/v1/oxYoIFfNqFpH9IpwOV5fkfk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Biryani Light'), local('Biryani-Light'), url(http://fonts.gstatic.com/s/biryani/v1/8QpPsO9MiJgsOGNMNYJQ0CEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Biryani Light'), local('Biryani-Light'), url(http://fonts.gstatic.com/s/biryani/v1/V5IBV7tY0UjWlyVaq2r1HCEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Biryani Light'), local('Biryani-Light'), url(http://fonts.gstatic.com/s/biryani/v1/e2qWBhmcwG_j1k44Tm68dfk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Biryani'), local('Biryani-Regular'), url(http://fonts.gstatic.com/s/biryani/v1/Qkc_oEqjAYsiDe9pLnkq4_Y6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Biryani'), local('Biryani-Regular'), url(http://fonts.gstatic.com/s/biryani/v1/Bgh-_ibsR_Jz-MKhCQho5_Y6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Biryani'), local('Biryani-Regular'), url(http://fonts.gstatic.com/s/biryani/v1/N-IFae6zoZ0D538ycERbVQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Biryani DemiBold'), local('Biryani-DemiBold'), url(http://fonts.gstatic.com/s/biryani/v1/2SN_flPPP_f2BdUZzTIjpyEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Biryani DemiBold'), local('Biryani-DemiBold'), url(http://fonts.gstatic.com/s/biryani/v1/XsOe13HfyenPHCR5-7hEKiEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Biryani DemiBold'), local('Biryani-DemiBold'), url(http://fonts.gstatic.com/s/biryani/v1/sudO3ui8h0hKk9hm4TaoQ_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Biryani Bold'), local('Biryani-Bold'), url(http://fonts.gstatic.com/s/biryani/v1/SCeX5_0oDO43W2ilS3NxVSEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Biryani Bold'), local('Biryani-Bold'), url(http://fonts.gstatic.com/s/biryani/v1/m6h1otgb8WgBb1OB1l2HRyEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Biryani Bold'), local('Biryani-Bold'), url(http://fonts.gstatic.com/s/biryani/v1/ZqfQVaAaPmtKNSJN4ziqsvk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Biryani ExtraBold'), local('Biryani-ExtraBold'), url(http://fonts.gstatic.com/s/biryani/v1/UdVkGOkclBbE_BaBz2ThnyEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Biryani ExtraBold'), local('Biryani-ExtraBold'), url(http://fonts.gstatic.com/s/biryani/v1/H6TCMQwkceD9vuKIR_OrIiEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Biryani ExtraBold'), local('Biryani-ExtraBold'), url(http://fonts.gstatic.com/s/biryani/v1/cJ4Ij9Z_fMLiglmcqwLkf_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Biryani Heavy'), local('Biryani-Heavy'), url(http://fonts.gstatic.com/s/biryani/v1/64vCGxeK3PMVOx1JCra4kCEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Biryani Heavy'), local('Biryani-Heavy'), url(http://fonts.gstatic.com/s/biryani/v1/t_4dquSJFXH-OHGGALEvWyEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Biryani Heavy'), local('Biryani-Heavy'), url(http://fonts.gstatic.com/s/biryani/v1/zesSxRLKV_fx-Z23Oa-YN_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
